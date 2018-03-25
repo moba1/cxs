@@ -20,12 +20,6 @@ require "cxs"
 p Cxs::XorShift64.new.rand(1..100)
 ```
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
 1. Fork it ( https://github.com/moba1/cxs/fork )
